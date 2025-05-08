@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+
+.custmContainer {
+  max-width: 1280px;
+  padding: 0px 10px ;
+  width: 100%;
+  margin: 0 auto
+}
+@theme {
+  --color-primary:#00adef
+}
